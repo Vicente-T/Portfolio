@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Student",
+      "organisation": "Etic",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on Html, Css and Sass", "Learned to use Js and React"],
+      "imageSrc": "history/etic.png"
+    }
+  ]

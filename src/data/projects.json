@@ -1,0 +1,9 @@
+[
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This was my first project.",
+      "skills": ["Html","Sass"],
+      "source": "https://github.com/ippo39/Projeto-01"
+    }
+  ]

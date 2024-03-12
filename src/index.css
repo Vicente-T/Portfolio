@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+:root{
+    
+    /* Colors */
+    --color-primary: #2272FF;
+    --color-secondary: black;
+    --color-tertiary: #FFF;
+
+    /* Fonts */
+    --font-primary: 'Kode Mono', monospace;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Kode Mono", monospace;
+}
+
+#night{
+    background-color: var(--color-secondary);
+}
+
+#light{
+    background-color: var(--color-tertiary);
+
+}
+
+.lightswitch{
+    text-align: right;
+    padding-right: 23rem;
+    padding-top: 5rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    
+}
+
+.check{
+    border-radius:50%;
+   
+    width: 3rem;
+    height: 3rem;
+    margin: auto;
+    opacity: 100;
+    cursor: pointer;
+}
+    
+#night .lightswitch label{
+    color: var(--color-primary);
+}
+    
+
