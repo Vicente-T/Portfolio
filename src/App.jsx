@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/header/header';
 import Home from './components/home/home';
 import About from './components/about/About';
-import Skills from './components/skills/skills';
+import Skills from './components/skills/Skills';
 import Footer from './components/footer/footer';
 
 
