@@ -1,5 +1,5 @@
 
-import './skills.css';
+import './skills-styles.css';
 import Frontend from "./Frontend";
 import Backend from "./Backend";
 
