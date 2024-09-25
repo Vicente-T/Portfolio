@@ -4,7 +4,7 @@ const Data = () => {
 	return (
 		<div className='home__data'>
 			<h1 className='home__title'>
-				Ola, eu sou o <span className='home__title-color'>Vicente</span>
+				Hi , I'm <span className='home__title-color'>Vicente</span>
 				<svg width='36' height='36' viewBox='0 0 48 48' fill='none' xmlns='http://www.w3.org/2000/svg' className='home__hand'>
 					<path
 						d='M25.4995 32.0305L31.3495 33.1555L36.1495 8.48051C36.4495 6.83051 35.3995 5.18051 33.8245 4.88051C32.1745 4.58051 30.5995 5.70551 30.2995 7.35551L25.4995 32.0305Z'
@@ -43,9 +43,7 @@ const Data = () => {
 				</svg>
 			</h1>
 			<h3 className='home__subtitle'>Frontend Developer</h3>
-			<p className='home__description'>Eu sou um Frontend Developer que vive em Lisboa. Tenho conhecimento em HTML, CSS, JavaScript, React etc.</p>
-			
-			
+			<p className='home__description'>I'm a Frontend Developer living in Lisbon. I have knowledge in HTML, CSS, JavaScript, React, etc.</p>
 		</div>
 	);
 };

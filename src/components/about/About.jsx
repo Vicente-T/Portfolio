@@ -14,9 +14,7 @@ const About = () => {
 					<div className='about__data'>
 						<Info />
 
-						<p className='about__description'>
-							Eu sou Vicente Teixeira, software engineer, começando a sua carreira.  Sou apaixonado por construir software excelente que melhore a vida das pessoas ao meu redor.
-						</p>
+						<p className='about__description'>I'm Vicente Teixeira, software engineer, starting his career. I'm passionate about building great software that improves the lives of those around me.</p>
 						<a download='' href={CV} className='button button--flex'>
 							{' '}
 							Download CV

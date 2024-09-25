@@ -13,7 +13,7 @@ const Frontend = () => {
 						</svg>
 						<div>
 							<h3 className='skills__name'>HTML</h3>
-							<span className='skills__level'>Intermediário</span>
+							<span className='skills__level'>Intermediary</span>
 						</div>
 					</div>
 
@@ -23,7 +23,7 @@ const Frontend = () => {
 						</svg>
 						<div>
 							<h3 className='skills__name'>CSS</h3>
-							<span className='skills__level'>Intermediário</span>
+							<span className='skills__level'>Intermediary</span>
 						</div>
 					</div>
 
@@ -33,7 +33,7 @@ const Frontend = () => {
 						</svg>
 						<div>
 							<h3 className='skills__name'>Javascript</h3>
-							<span className='skills__level'>Intermediário</span>
+							<span className='skills__level'>Intermediary</span>
 						</div>
 					</div>
 				</div>
@@ -45,7 +45,7 @@ const Frontend = () => {
 						</svg>
 						<div>
 							<h3 className='skills__name'>Git</h3>
-							<span className='skills__level'>Intermediário</span>
+							<span className='skills__level'>Intermediary</span>
 						</div>
 					</div>
 				</div>

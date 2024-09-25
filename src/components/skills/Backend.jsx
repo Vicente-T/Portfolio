@@ -13,7 +13,7 @@ const Backend = () => {
 							</svg>
 							<div>
 								<h3 className='skills__name'>NodeJs</h3>
-								<span className='skills__level'>Básico</span>
+								<span className='skills__level'>Basic</span>
 							</div>
 						</div>
 
@@ -23,7 +23,7 @@ const Backend = () => {
 							</svg>
 							<div>
 								<h3 className='skills__name'>Python</h3>
-								<span className='skills__level'>Intermediário</span>
+								<span className='skills__level'>Intermediary</span>
 							</div>
 						</div>
 
@@ -33,7 +33,7 @@ const Backend = () => {
 							</svg>
 							<div>
 								<h3 className='skills__name'>MySql</h3>
-								<span className='skills__level'>Intermediário</span>
+								<span className='skills__level'>Intermediary</span>
 							</div>
 						</div>
 					</div>
